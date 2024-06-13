@@ -1,0 +1,14 @@
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\305-6\Desktop\KOndratiev_difzachet\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\305-3\Desktop\difzachet\difzachet_KI-main\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
